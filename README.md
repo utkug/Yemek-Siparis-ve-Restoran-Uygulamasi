@@ -3,4 +3,5 @@ Kullanıcı kısmında kullanıcı üye değilse kullanıcı bilgileri girilerek
 Admin kısmında ise admin üye değilse admin bilgileri girilerek üye olması, üye ise admin bilgileri ile giriş yapması gerekiyor. Giriş yaptığınızda giriş yaptığınız restorana ait verilen siparişler gözüküyor. Buradan sipariş durumunu (onay bekliyor, hazırlanıyor, yolda, teslim edildi, iptal edildi) admin olarak değiştirebiliyorsunuz. Ayrıca admin kısmında da  yan panel bulunmaktadır. Yan panelde verilen siparişler, o restorana ait yemekler ve admin hesabı bulunuyor. Bunlara tıklandığında gerekli yere yöndendiriyor.
 
 
-![MixCollage-08-Jan-2024-07-39-PM-333](https://github.com/utkug/Yemek-Siparis-ve-Restoran-Uygulamasi/assets/121403248/76c7031b-f824-4dc3-a35a-c5a45fbfe9b6)
+![MixCollage-08-Jan-2024-07-39-PM-333](https://github.com/utkug/Yemek-Siparis-ve-Restoran-Uygulamasi/assets/121403248/4c7e377e-9014-4f6c-ac7f-c3333f9ad0d7)
+
