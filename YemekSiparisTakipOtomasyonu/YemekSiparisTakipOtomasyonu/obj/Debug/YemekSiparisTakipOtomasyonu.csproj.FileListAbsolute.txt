@@ -1,0 +1,489 @@
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form2.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form2.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Enes\OneDrive\Masaüstü\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form2.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form11.resources
+C:\Users\Utku\Desktop\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form3.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Account.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Foods.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.FoodColumns.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form11.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form2.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Account.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Foods.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.FoodColumns.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form11.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form2.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form3.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form1.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.Adresler.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.Address.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.AddressColumns.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.InRestaurant.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.RestoranlarForm.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserHesabim.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yeni klasör\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSiparisler.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Account.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Foods.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.Address.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.AddressColumns.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.FoodColumns.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.InRestaurant.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.RestoranlarForm.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserHesabim.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSiparisler.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Sepet.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminOrders.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.CardInformation.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Payment.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCOrders.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCCards.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminAddress.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.Address.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.AddressColumns.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminAddress.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminOrders.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.CardInformation.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form1.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Form4.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.InRestaurant.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Payment.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.RestoranlarForm.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Sepet.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserHesabim.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSiparisler.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCCards.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCOrders.resources
+C:\Users\Enes\OneDrive\Masaüstü\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.UCAdresler.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe.config
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\WinFormAnimation.dll
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\CircularProgressBar.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\Npgsql.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Account.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.InRestaurant.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.UCAdresler.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Foods.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.Address.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.AddressColumns.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminAddress.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminLogin.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminOrders.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminSignUp.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.CardInformation.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.FoodColumns.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Payment.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.RestoranlarForm.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.Sepet.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserHesabim.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UserLogin.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.SplashScreen.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSignUp.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserSiparisler.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCCards.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.UCOrders.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.csproj.CopyComplete
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.exe
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.pdb
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.OrderDetails.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.PaymentMethod.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserMainMenu.resources
+C:\Users\Utku\Desktop\Yemek4\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminMainMenu.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekGosterme.UCAdresler.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.PaymentMethod.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.UserMainMenu.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.AdminMainMenu.resources
+C:\Users\Utku\Desktop\Yemek\YemekSiparisTakipOtomasyonu\YemekSiparisTakipOtomasyonu\obj\Debug\YemekSiparisTakipOtomasyonu.Forms.OrderDetails.resources
